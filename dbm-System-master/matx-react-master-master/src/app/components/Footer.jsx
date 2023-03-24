@@ -48,7 +48,7 @@ const Footer = () => {
             <Span sx={{ m: "auto" }}></Span>
             <Paragraph sx={{ m: 0 }}>
               Design and Developed by{" "}
-              <a href="http://ui-lib.com">Ravi Senjaliya</a>
+              <a href="http://ui-lib.com">Ravi Dholariya</a>
             </Paragraph>
           </FooterContent>
         </AppFooter>

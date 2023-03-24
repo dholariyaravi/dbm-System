@@ -9,4 +9,4 @@ const GoogleIcon = (props) => {
     )
 }
 
-export default GoogleIcon
+export default GoogleIcon;
